@@ -1,1 +1,1 @@
-console.log("Hello, Cubos");
+console.log("Hello, Cubos Academy");
